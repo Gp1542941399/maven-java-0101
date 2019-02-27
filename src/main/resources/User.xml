@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<user>
+		<name>张三</name>
+		<mailid>1542941399@qq.com</mailid>
+	</user>
+	<user>
+		<name>李四</name>
+		<mailid>1542941399@qq.com</mailid>
+	</user>
+	<user>
+		<name>王五</name>
+		<mailid>1542941399@qq.com</mailid>
+	</user>
+	<user>
+		<name>赵六</name>
+		<mailid>1542941399@qq.com</mailid>
+	</user>
+</users>
